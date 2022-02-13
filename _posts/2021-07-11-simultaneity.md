@@ -31,7 +31,7 @@ toc: false
 
 #### main():
 
-![Snipper of main()](/assets/img/redpwn2021/main.png)
+![Snippet of main()](/assets/img/redpwn2021/main.png)
 
 #### PoC:
 
