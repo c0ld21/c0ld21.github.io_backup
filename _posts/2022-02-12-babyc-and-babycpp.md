@@ -1,7 +1,7 @@
 ---
 title: Decompetition CTF - babyc & babycpp
 date: 2022-02-12
-categories: [re]
+categories: [rev]
 tags: [decompetition2022]
 toc: true
 ---
